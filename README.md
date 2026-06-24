@@ -20,10 +20,10 @@ This project is an interactive **Power BI dashboard** developed to analyze Super
  Dashboard Screenshots :
 
 Dashboard 1 :
-![Dashboard 1](Sales_DashBoard 1.png)
+![Dashboard 1](Sales_DashBoard1.png)
 
 Dashboard 2 :
-![Dashboard 2](Sales_DashBoard 2.png)
+![Dashboard 2](Sales_DashBoard2.png)
 
 
 
@@ -41,15 +41,12 @@ Objectives :
 - Present insights through an interactive dashboard.
 
  Outcome :
-
 This dashboard enables users to monitor key business metrics and make data-driven decisions using interactive visualizations and performance indicators.
 
----
+
 
  Author :
-
-**Pravin Savsundar**
-
+Pravin Savsundar
 Aspiring Data Analyst | Power BI | Excel | SQL | Python
 
 

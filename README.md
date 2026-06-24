@@ -20,20 +20,18 @@ This project is an interactive **Power BI dashboard** developed to analyze Super
  Dashboard Screenshots :
 
 Dashboard 1 :
-![Dashboard 1](Sales_DashBoard 1)
+![Dashboard 1](Sales_DashBoard 1.png)
 
 Dashboard 2 :
-![Dashboard 2](Sales_DashBoard 2)
+![Dashboard 2](Sales_DashBoard 2.png)
 
 
 
  Project Files :
- – Power BI dashboard
- – Dataset used for analysis
-- README.md  
-- Dashboard screenshots
-
----
+- `README.md` - Project Documentation
+- `Sales_DashBoard 1.png` - DashBoard Screenshot
+- `Sales_DashBoard 2.png` - DashBoard Screenshot
+- `SuperStore Sales Dataset (1).xlsx` - dataset used for analysis
 
 Objectives :
 - Analyze sales and profit performance.
